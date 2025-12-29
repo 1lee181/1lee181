@@ -6,4 +6,4 @@ Previously, I worked as a Full-Stack Software Engineer at bizZone. I’m current
 
 Feel free to reach out at [aleeshacore@gmail.com](mailto:aleeshacore@gmail.com)!
 
-![](https://komarev.com/ghpvc/?username=1lee181&style=flat-square&color=yellow)
+![](https://komarev.com/ghpvc/?username=1lee181&style=flat-square&color=yellowgreen)
