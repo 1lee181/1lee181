@@ -2,7 +2,7 @@
 
 I’m Aleesha! I study Computer Science at McMaster University, with an intended minor in Mathematics.
 
-Previously, I worked as a Full-Stack Software Engineer at bizZone. I’m currently open to Software Engineering and Machine Learning internships for Summer 2027.
+Previously, I worked as a Full-Stack Engineering Intern at bizZone. I’m currently open to Software Engineering and Machine Learning internships for Summer 2027.
 
 Feel free to reach out at [abdua16@mcmaster.ca](mailto:abdua16@mcmaster.ca)!
 
